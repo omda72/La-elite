@@ -1,0 +1,140 @@
+{
+  "categories": [
+    {
+      "id": "perfumes",
+      "name": "Medieval Perfumes",
+      "description": "Exquisite fragrances crafted with ancient techniques"
+    },
+    {
+      "id": "liquid-pens",
+      "name": "Antique Liquid Pens",
+      "description": "Vintage writing instruments from noble collections"
+    },
+    {
+      "id": "silver-cartridges",
+      "name": "Silver Cartridge Containers",
+      "description": "Elegant silver containers with lustrous finishes"
+    },
+    {
+      "id": "noble-furniture",
+      "name": "Noble Family Furniture",
+      "description": "Authentic furniture pieces from aristocratic estates"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Regal Essence - Medieval Rose",
+      "category": "perfumes",
+      "price": 299.99,
+      "originalPrice": 399.99,
+      "description": "A luxurious perfume crafted with rare medieval roses, infused with amber and sandalwood. This exquisite fragrance was favored by queens and noble ladies of ancient courts.",
+      "features": [
+        "Hand-crafted with organic ingredients",
+        "50ml crystal bottle with gold accents",
+        "Limited edition - only 100 pieces",
+        "Includes authenticity certificate"
+      ],
+      "images": ["/images/perfume1.jpg", "/images/hero-perfume.jpg"],
+      "inStock": true,
+      "featured": true,
+      "rating": 4.9,
+      "reviews": 47
+    },
+    {
+      "id": 2,
+      "name": "Royal Jasmine Elixir",
+      "category": "perfumes",
+      "price": 449.99,
+      "originalPrice": 599.99,
+      "description": "An intoxicating blend of jasmine, bergamot, and ancient spices used by medieval royalty. Each bottle is hand-blown and adorned with sterling silver.",
+      "features": [
+        "Rare jasmine from monastery gardens",
+        "Sterling silver bottle decoration",
+        "Aged in oak barrels for 6 months",
+        "Comes with silk presentation box"
+      ],
+      "images": ["/images/perfume2.jpg", "/images/perfume3.jpg"],
+      "inStock": true,
+      "featured": true,
+      "rating": 4.8,
+      "reviews": 32
+    },
+    {
+      "id": 3,
+      "name": "Noble's Amber Mystique",
+      "category": "perfumes",
+      "price": 549.99,
+      "originalPrice": 699.99,
+      "description": "A mysterious fragrance with deep amber notes, vetiver, and precious oils. Once owned by the House of Montague, this recipe dates back to the 14th century.",
+      "features": [
+        "Authentic 14th-century recipe",
+        "Amber crystal bottle",
+        "24k gold leaf accents",
+        "Collector's edition with numbered certificate"
+      ],
+      "images": ["/images/perfume4.jpg", "/images/perfume5.jpg"],
+      "inStock": true,
+      "featured": false,
+      "rating": 4.9,
+      "reviews": 28
+    },
+    {
+      "id": 4,
+      "name": "Duchess Aurora Liquid Pen",
+      "category": "liquid-pens",
+      "price": 899.99,
+      "originalPrice": 1199.99,
+      "description": "An exquisite 18th-century liquid pen owned by Duchess Aurora. Crafted from sterling silver with intricate engravings and functional ink reservoir.",
+      "features": [
+        "Sterling silver construction",
+        "Original ink mechanism still functional",
+        "Hand-engraved baroque patterns",
+        "Provenance documentation included"
+      ],
+      "images": ["/images/perfume1.jpg"],
+      "inStock": true,
+      "featured": true,
+      "rating": 5.0,
+      "reviews": 12
+    },
+    {
+      "id": 5,
+      "name": "Lord Chamberlain's Cartridge Set",
+      "category": "silver-cartridges",
+      "price": 1299.99,
+      "originalPrice": 1699.99,
+      "description": "A magnificent set of silver cartridge containers from the estate of Lord Chamberlain. Each container features unique engravings and maintains its original luster.",
+      "features": [
+        "Set of 3 silver containers",
+        "Original hallmarks preserved",
+        "Velvet-lined presentation case",
+        "Estate auction documentation"
+      ],
+      "images": ["/images/perfume2.jpg", "/images/perfume3.jpg"],
+      "inStock": true,
+      "featured": true,
+      "rating": 4.7,
+      "reviews": 8
+    },
+    {
+      "id": 6,
+      "name": "Contessa's Writing Table",
+      "category": "noble-furniture",
+      "price": 4999.99,
+      "originalPrice": 6999.99,
+      "description": "An authentic writing table from the 17th century, previously owned by Contessa Isabella. Features secret compartments and original brass fittings.",
+      "features": [
+        "17th-century Italian craftsmanship",
+        "Hidden compartments intact",
+        "Original brass hardware",
+        "Full restoration documentation"
+      ],
+      "images": ["/images/background1.webp", "/images/background2.jpeg"],
+      "inStock": true,
+      "featured": false,
+      "rating": 4.9,
+      "reviews": 6
+    }
+  ]
+}
